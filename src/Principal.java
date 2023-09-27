@@ -2,7 +2,7 @@ package src;
 
 public class Principal {
     /**
-     * primer meyodo que se ejecuta
+     * primer metodo que se ejecuta
      * @param args
      */
     public static void main(String[]args){
